@@ -1,0 +1,5 @@
+development:
+  password: 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
+  # theme_id: "156049211677" #live
+  theme_id: "156147908893" #dev
+  store: zelectobarber.myshopify.com
